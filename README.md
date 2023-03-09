@@ -8,6 +8,7 @@ Team – Preeti Rai, Vijay Shinde, Krushna Naphade and Shubham Negi
 
 Data Extraction – Cornel University Website (Open Source Dataset),
 It Contains images (3833 Images w.r.t belonging class)
-IDE used – Python : Jupyter Notebook, Pycharm, VS Code
+
+IDE used – Python : Jupyter Notebook, VS Code
 
 ## Result – The Model is Giving us Accuracy of > 96%, and also able to fulfill the core goal of the project.
