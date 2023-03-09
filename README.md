@@ -1,4 +1,4 @@
-# Face Mask Detection Project (An Deep Learning Project)
+# Face Mask Detection Project (A Deep Learning Project)
 
 ## Goal - The model should predict if a person is wearing a mask or not. 
 They can initially predict it on the images and then convert it to real time detection through webcam.
