@@ -11,4 +11,4 @@ It Contains images (3833 Images w.r.t belonging class)
 
 IDE used – Python : Jupyter Notebook, VS Code
 
-## Result – The Model is Giving us Accuracy of > 96%, and also able to fulfill the core goal of the project.
+## Result – Model Accuracy > 96%
