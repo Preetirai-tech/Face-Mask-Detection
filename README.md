@@ -1,7 +1,7 @@
-# Face Mask Detection Project (A Deep Learning Project)
+# Face Mask Detection Project (Deep Learning Project)
 
 ## Goal - The model should predict if a person is wearing a mask or not. 
-They can initially predict it on the images and then convert it to real time detection through webcam.
+Initially predicted the images and then converted it to real time detection through webcam.
 
 ## For The Organization - Zummit Infolabs Bangalore
 Team – Preeti Rai, Vijay Shinde, Krushna Naphade and Shubham Negi
